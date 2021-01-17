@@ -1,2 +1,2 @@
 # HDDActivityLED
-WinForms based program for displaying various system information (incomplete) and a HDD activity LED using WMI
+WinForms based program for displaying a software-based version of a HDD activity LED using WMI
